@@ -1,2 +1,3 @@
 # firstgradedactivty
-^-^ Hello New People
+^-^ Hello People ^-^
+  How Was your Day?
