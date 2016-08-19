@@ -1,4 +1,3 @@
 # firstgradedactivty
-<tr> ^-^ Hello People ^-^ 
-</tr>
+^-^ Hello People 
   How Was your Day?
