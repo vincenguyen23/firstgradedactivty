@@ -1,2 +1,2 @@
 # firstgradedactivty
-^-^Hello New People
+^-^ Hello New People
